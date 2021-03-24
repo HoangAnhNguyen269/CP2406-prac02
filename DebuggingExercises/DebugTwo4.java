@@ -3,7 +3,7 @@ public class DebugTwo4
 {
    public static void main(String[] args)
    {
-      String costString;
+      String costString; //cmt
       double cost;
       final double TAX = 0.06;
       costString = JOptionPane.showInputDialog(null,"Enter price of item you are buying", "Purchases",
